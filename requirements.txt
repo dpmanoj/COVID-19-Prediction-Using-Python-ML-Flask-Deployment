@@ -34,7 +34,6 @@ pytz==2019.3
 pyxdg==0.25
 SecretStorage==2.3.1
 six==1.14.0
-tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0

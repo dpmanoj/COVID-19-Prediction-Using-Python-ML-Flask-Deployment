@@ -9,7 +9,6 @@ Flask==1.1.2
 Flask-MySQL==1.5.1
 Flask-MySQLdb==0.2.0
 funcsigs==1.0.2
-futures==3.3.0
 gast==0.3.3
 google-pasta==0.1.8
 grpcio==1.26.0
